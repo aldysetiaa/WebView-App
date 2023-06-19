@@ -18,3 +18,5 @@ In the WebViewClient there is the code below to display whatsapp from the webvie
         view.loadUrl(url);
         return true;
     }
+
+- [Download app-debug.apk](https://github.com/aldysetiaa/WebView-App/blob/main/app-debug.apk)
